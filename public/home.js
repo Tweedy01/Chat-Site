@@ -117,7 +117,15 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>You’re welcome to Official verified financial Management, how can we help you and who gave you our contact ? and do as well  to follow the instructions properly..</p>
+            <p>Crypto.com Onchain Support is the customer service team for Crypto.com Onchain, a popular online platform for buying, selling, and storing cryptocurrencies like Bitcoin, Ethereum, and others.
+The Crypto.com Onchain Support team is responsible
+for:
+1. Answering questions about Crypto.com Onchain services and features.
+2. Resolving issues with accounts, transactions, and payments.
+3. Providing guidance on security, verification, and compliance.
+4. Assisting with technical problems, such as login or connectivity or Debit card issues.
+You can typically contact Crypto.com Onchain
+Support through here..</p>
           </div>
         `
         break
